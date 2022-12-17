@@ -4,7 +4,7 @@ const PORT = 3001;
 const cors = require("cors")
 
 const corsOptions = {
-    origin: "https://one-hit-wonderz-one.vercel.app/",
+    origin: "https://one-hit-wonderz-one.vercel.app",
     optionsSuccessStatus: 200
 }
 
